@@ -1,4 +1,3 @@
-# Web_Chatbot
 # 💬 Simple Chatbot Web App
 
 A lightweight interactive chatbot built with HTML, CSS, and JavaScript. It can respond to simple user queries, learn new responses on the fly, and save them locally using `localStorage`.
