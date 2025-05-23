@@ -6,7 +6,7 @@ A lightweight interactive chatbot built with HTML, CSS, and JavaScript. It can r
 ## 🌐 Live Demo
 👉 [Try the chatbot here](https://your-username.github.io/chatbot-project/)
 
-![Screenshot 2025-05-19 231501](https://github.com/user-attachments/assets/12dfa714-a247-4e44-9a87-a58b8c3cfc45)
+![Screenshot 2025-05-23 080726](https://github.com/user-attachments/assets/303204e6-93bc-4f1f-b319-f0786400b02a)
 
 ## 🧠 Sample Questions
 
